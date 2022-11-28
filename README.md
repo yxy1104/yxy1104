@@ -7,9 +7,9 @@
 
 ## More fun facts...
 ![github stats](https://github-readme-stats.vercel.app/api?username=yxy1104&show_icons=true&theme=default)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=yxy1104&show_icons=true&theme=default)
+<!--- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=yxy1104&show_icons=true&theme=default) ---> 
 
-## Let's connect!
+## Let's connect...
 - [Email](mailto:xiaoyu.yang1104@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yangxiaoyu/)
 - [Kaggle](https://www.kaggle.com/biyuyang)
