@@ -2,8 +2,8 @@
 
 ## What I'm up to...
 - I’m interested in providing technical and analytical solutions to impactful real-world problems
-- I'm working on sharpening my technical skills and telling good stories from data
-- I’m currently learning Linux, Kubernetes and MLOps in general
+- I'm working to improve my technical skills and data storytelling
+- I’m constantly learning, and currently focusing on Linux, Kubernetes and MLOps in general
 
 ## More fun facts...
 ![github stats](https://github-readme-stats.vercel.app/api?username=yxy1104&show_icons=true&theme=default)
