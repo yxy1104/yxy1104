@@ -1,17 +1,18 @@
 ![profile_pic](https://github.com/yxy1104/yxy1104/blob/main/LinkedIn%20Banner%202.png)
 
 ## Who I am
-With 8 years of experience as a Data Scientist, I'm passionate about driving business impact through technical solutions. My expertise spans ML algorithms, experiment design/evaluation, and quantifying business impacts. Proficient in SQL (HiveQL, MySQL, MSSQL), Python (numpy, pandas, scikit-learn, and more), and R (dplyr, data.table, ggplot2, and others), as well as big data platforms (Hive/Hadoop, GCP), I have the technical capabilities to tackle challenging problems.
+Are you passionate about leveraging the power of data science to create business strategy, drive user engagement, and make financial impact? If so, we have something in common! 
 
-Beyond technical capabilities, I possess strong business acumen and communication skills, enabling effective collaboration with stakeholders. I am good at breaking down abstract problems into actionable steps and creating pragmatic work plans. I've successfully built and led high-performing data science teams, fostering a culture of success and delivering impactful presentations to senior leadership for data-driven decisions.
+I am a seasoned data science professional with 8+ years of experience in digital media and marketing analytics for healthcare and insurance industries. I help companies solve complex business problems and make data-driven decisions through A/B/multivariate testing, statistics, and machine learning. Examples from my achievements include:
+
+ - Successfully launched a pioneering care management lite program to 200K Medicare plan users, driving 35% behavior change and 10K incremental compliances in health screenings
+ - Built and deployed a multi-class neural network model to optimize the targeting of digital campaigns and achieve $5-7.5M of incremental medical cost savings
+ - Standardized experimentation framework and leveraged causal inference methodologies to improve the accuracy of program impact by 30%
 
 ## What I'm up to...
-- I’m passionate about driving business impact through data science
-- I’m constantly learning, currently focusing on GenAI, NLP, experiment design, causal inference, etc.
-- I'm a good data story teller to influence business decision making
+- I’m constantly learning, currently focusing on causal inference with machine learning and Python
+- My next learning goal is to understand the basics of GenAI and MLOps
+- I'd like to expand my industry knowledge in product analytics and user growth strategies as well
 
 ## Let's connect...
-- [Email](mailto:xiaoyu.yang1104@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yangxiaoyu/)
-- [Kaggle](https://www.kaggle.com/biyuyang)
-- [Github](https://www.github.com/yxy1104)
+My passion for data science, problem-solving, and technical leadership drives me to innovate, collaborate, and mentor. Let's connect to explore how my expertise can elevate your organization's next data-driven initiatives. Please reach out to me at [xiaoyu.yang@myyahoo.com](mailto:xiaoyu.yang@myyahoo.com) or visit my LinkedIn profile at [https://www.linkedin.com/in/yangxiaoyu/](https://www.linkedin.com/in/yangxiaoyu/). Let's embark on a journey toward shared success and impact!
