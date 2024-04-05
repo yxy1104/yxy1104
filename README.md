@@ -15,4 +15,4 @@ I am a seasoned data science professional with 8+ years of experience in digital
 - I'd like to expand my industry knowledge in product analytics and user growth strategies as well
 
 ## Let's connect...
-My passion for data science, problem-solving, and technical leadership drives me to innovate, collaborate, and mentor. Let's connect to explore how my expertise can elevate your organization's next data-driven initiatives. Please reach out to me at [xiaoyu.yang@myyahoo.com](mailto:xiaoyu.yang@myyahoo.com) or visit my LinkedIn profile at [https://www.linkedin.com/in/yangxiaoyu/](https://www.linkedin.com/in/yangxiaoyu/). Let's embark on a journey toward shared success and impact!
+My passion for data science, problem-solving, and technical leadership drives me to innovate, collaborate, and mentor. Let's connect to explore how my expertise can elevate your organization's next data-driven initiatives. Please reach out to me at [xiaoyu.yang1104@gmail.com](mailto:xiaoyu.yang1104@gmail.com) or visit my LinkedIn profile at [https://www.linkedin.com/in/yangxiaoyu/](https://www.linkedin.com/in/yangxiaoyu/). Let's embark on a journey toward shared success and impact!
